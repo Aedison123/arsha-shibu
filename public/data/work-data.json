@@ -1,0 +1,28 @@
+{
+  "workData": [
+    {
+      "title": "CMA Intermediate – Cost Accounting",
+      "category": "Professional Course",
+      "image": "/images/work/cma-costing.jpg",
+      "slug": "#"
+    },
+    {
+      "title": "Communication & Soft Skills Training",
+      "category": "ICMAI – NPTEL Certification",
+      "image": "/images/work/soft-skills.jpg",
+      "slug": "#"
+    },
+    {
+      "title": "B.Com Finance & Taxation",
+      "category": "Degree (Pursuing)",
+      "image": "/images/work/bcom.jpg",
+      "slug": "#"
+    },
+    {
+      "title": "Financial Accounting Practice",
+      "category": "Academic Training",
+      "image": "/images/work/accounting.jpg",
+      "slug": "#"
+    }
+  ]
+}

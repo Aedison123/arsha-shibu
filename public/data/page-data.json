@@ -1,0 +1,105 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "arshashibu48@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:arshashibu48@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 6282045074",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+916282045074"
+      },
+      {
+        "type": "location",
+        "label": "Koothattukulam, Ernakulam, Kerala",
+        "icon": "/images/icon/location-icon.svg",
+        "link": "https://maps.google.com/?q=Koothattukulam,Ernakulam"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com"
+      }
+    ]
+  },
+
+  "educationData": {
+    "education": [
+      {
+        "title": "CMA Intermediate (Group 2)",
+        "description": "Institute of Cost Accountants of India (ICMAI). Marks: 243 out of 400. Status: Pursuing."
+      },
+      {
+        "title": "B.Com – Finance & Taxation",
+        "description": "Indira Gandhi National Open University (IGNOU). Status: Pursuing."
+      },
+      {
+        "title": "Higher Secondary (Plus Two) – Commerce | March 2023",
+        "description": "Board of Higher Secondary Examinations, Kerala. Score: 1176 / 1200."
+      },
+      {
+        "title": "SSLC (10th Standard)",
+        "description": "Board of Public Examinations, Kerala. Grade: A+ in all subjects."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Financial Accounting",
+        "icon": "/images/home/education-skill/accounting-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Cost Accounting",
+        "icon": "/images/home/education-skill/cost-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Management Accounting (Basics)",
+        "icon": "/images/home/education-skill/management-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Financial Analysis",
+        "icon": "/images/home/education-skill/analysis-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Computerised Accounting",
+        "icon": "/images/home/education-skill/computer-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "MS Excel",
+        "icon": "/images/home/education-skill/excel-icon.svg",
+        "rating": 4
+      }
+    ]
+  },
+
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "arshashibu48@gmail.com",
+        "link": "mailto:arshashibu48@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 6282045074",
+        "link": "tel:+916282045074"
+      }
+    ]
+  }
+}
